@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Minimal base reset; rely on Tailwind utility classes for layout */
+:root {
+  color-scheme: light;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
